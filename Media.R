@@ -1,3 +1,6 @@
+
+#Probando GIT
+
 mbernoulli <- function(p){
   return(p)
 }
