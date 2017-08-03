@@ -21,7 +21,4 @@ mhgeom <- function(r,n,N){
 mpoisson <- function(l){
   return(l)
   
-  prueba <- function(i){
-    if(i == "mbernoulli"){
-      
-    }
+}
